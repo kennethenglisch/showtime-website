@@ -2,10 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ws23 on IMI Showtime</title>
-    <link>https://htw-imi-showtime.github.io/showtime-website/ws23/</link>
+    <link>https://kennethenglisch.github.io/showtime-website/ws23/</link>
     <description>Recent content in ws23 on IMI Showtime</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <atom:link href="https://htw-imi-showtime.github.io/showtime-website/ws23/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kennethenglisch.github.io/showtime-website/ws23/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ws23</title>
+      <link>https://kennethenglisch.github.io/showtime-website/ws23/debug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kennethenglisch.github.io/showtime-website/ws23/debug/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
